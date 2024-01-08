@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESC_parts")(type "Legacy")(uri "/home/savo/Documents/KiCAD Circuits/ESC/ESC_parts.lib")(options "")(descr ""))
+)

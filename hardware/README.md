@@ -6,6 +6,7 @@ Here are the files related to the hardware design. They are all from KiCad 7.0.1
 
 | Project | Description |
 | --- | --- |
+| `drone_regulator` | An noise rejecting voltage regulator board |
 | `flight_computer_vX` | Different versions of the flight computer |
 
 ## Other Files and Folders
