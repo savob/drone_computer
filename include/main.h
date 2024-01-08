@@ -14,7 +14,7 @@ const float batteryScaling = 7.0;   // Multiplied by analog reading to deduce ba
 const bool LEDOn = HIGH;            // What state to set LEDs to turn on/off
 const bool LEDOff = !LEDOn;
 
-const u_int USBbaud = 115200;       // Baudrate used in PC communication
+const u_int32_t USBbaud = 115200;       // Baudrate used in PC communication (doesn't really matter with native USB)
 
 // I2C Address
 const u_int8_t BMPAddress = 0x77;   // Address of pressure sensor on I2C
