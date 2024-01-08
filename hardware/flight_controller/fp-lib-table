@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name flight_controller)(type KiCad)(uri "C:/OneDrive/OneDrive - University of Toronto/Side Projects/KiCAD Circuits/flight_controller")(options "")(descr ""))
+  (lib (name 2172034-1)(type KiCad)(uri ${KIPRJMOD}/2172034-1)(options "")(descr ""))
+)

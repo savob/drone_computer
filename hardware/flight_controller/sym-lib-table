@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name flight_controller-cache)(type Legacy)(uri ${KIPRJMOD}/flight_controller-cache.lib)(options "")(descr "")(disabled))
+  (lib (name flight_controller_parts)(type Legacy)(uri ${KIPRJMOD}/flight_controller_parts.lib)(options "")(descr ""))
+  (lib (name 2172034-1)(type Legacy)(uri ${KIPRJMOD}/2172034-1/2172034-1.lib)(options "")(descr ""))
+  (lib (name flight_controller_v2-rescue)(type Legacy)(uri ${KIPRJMOD}/flight_controller_v2-rescue.lib)(options "")(descr ""))
+)
